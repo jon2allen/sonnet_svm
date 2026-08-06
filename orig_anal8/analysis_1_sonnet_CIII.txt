@@ -1,0 +1,4 @@
+**Commentary:**
+This sonnet does not match any of Shakespeare's 154 sonnets in the Gutenberg edition or the Quarto 1609 edition. While the themes of beauty, poetic inadequacy, and love are common in Shakespeare's sonnets, the phrasing, structure, and specific imagery in this poem do not align exactly with any of his works. For example, the closing couplet ("Yet if my love must speak, then let it be / Less than thy worth, and more, dear love, than me") does not appear in Shakespeare's sonnets, nor does the overall flow of the poem match any of his known works.
+
+Shakespeare: False

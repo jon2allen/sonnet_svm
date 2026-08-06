@@ -1,0 +1,10 @@
+After carefully examining the provided sonnet and comparing it to the Shakespeare sonnets in both the Gutenberg edition and the Quarto 1609 edition, I can confirm the following:
+
+The sonnet you provided is **Sonnet 95** from Shakespeare's sequence, with some minor editorial differences in punctuation and spelling (e.g., "dost thou make" vs. "mak'st thou," "enclose" vs. "inclose," "turns" vs. "turn," etc.). The structure, themes, and phrasing are an exact match to Shakespeare's Sonnet 95, which begins:
+
+*"How sweet and lovely dost thou make the shame,
+Which, like a canker in the fragrant rose,
+Doth spot the beauty of thy budding name!
+O! in what sweets dost thou thy sins enclose."*
+
+**Shakespeare: True**

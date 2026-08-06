@@ -1,0 +1,11 @@
+The sonnet you provided is an exact match for **Sonnet 65** in Shakespeare's sequence, with only minor editorial variations (e.g., "O!" vs. "O," or punctuation differences) that align with either the **Quarto 1609** or modern editions like Gutenberg.
+
+### Key Observations:
+1. **Structure & Rhyme**: Matches the Shakespearean sonnet form (14 lines, ABABCDCDEFEFGG).
+2. **Imagery & Themes**: The motifs of time’s decay, beauty’s fragility, and the power of poetry ("black ink") are quintessentially Shakespearean.
+3. **Textual Accuracy**: No substantive deviations from the original. The Quarto reads:
+   > *"Since braſſe, nor ſtone, nor earth, nor boundleſſe ſea, / But ſad mortallity ore-ſwaies their power..."*
+   (Modernized spellings and punctuation aside, the content is identical.)
+
+### Label:
+**Shakespeare: True**

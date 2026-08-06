@@ -1,0 +1,10 @@
+**Commentary:**
+This sonnet does not match any of Shakespeare's 154 sonnets in theme, structure, or phrasing. While it mimics the form (14 lines, iambic pentameter, ABABCDCDEFEFGG rhyme scheme) and some Petrarchan conceits (e.g., "will," "love," "desire"), the language and imagery are not characteristic of Shakespeare. Key deviations include:
+
+1. **Theme/Imagery**: Shakespeare’s sonnets often explore time, beauty, procreation, or the complexities of love (e.g., Sonnets 18, 116, 130). This sonnet’s fixation on "will" as a metaphysical concept (e.g., "will’s own name," "love’s unyielding cry") is not present in Shakespeare’s work. The closest Shakespeare comes to wordplay on "will" is in Sonnet 135/136, but the tone and content differ entirely.
+
+2. **Phrasing**: Lines like *"When all the world is but thy willing world"* or *"For what is will but love’s unyielding cry?"* are not found in Shakespeare’s sonnets. His wordplay is subtler (e.g., Sonnet 135: *"Whoever hath her wish, thou hast thy Will"*).
+
+3. **Originality**: The sonnet’s conceit (equating "will" with love) is not Shakespearean. The Quarto 1609 and Gutenberg editions confirm no such sonnet exists in his canon.
+
+**Shakespeare: False**

@@ -1,0 +1,8 @@
+The sonnet you provided is an exact match for **Shakespeare's Sonnet 8**, with only minor editorial differences in punctuation and spelling (e.g., "hear’st" vs. "hear'st," "receiv’st" vs. "receiv'st," "confounds" vs. "confound," etc.). These variations are consistent with the flexibility allowed in the Quarto (1609) and Gutenberg editions.
+
+**Commentary:**
+- The structure, rhyme scheme (ABABCDCDEFEFGG), and thematic content align perfectly with Sonnet 8.
+- The closing couplet ("Whose speechless song...") is identical in meaning and nearly identical in wording to the original.
+- No strong deviations or paraphrasing are present.
+
+**Shakespeare: True**

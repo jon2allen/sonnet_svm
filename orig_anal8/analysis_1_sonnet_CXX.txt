@@ -1,0 +1,28 @@
+After carefully examining the provided sonnet and comparing it to Shakespeare's sonnets from both the Gutenberg edition and the Quarto 1608 edition, here is the analysis:
+
+The sonnet you provided is a close match to **Sonnet 120** (CXX in Roman numerals) from Shakespeare's sonnets. Below is the original text from the Quarto 1609 edition for comparison:
+
+---
+**Sonnet 120**
+That you were once unkind befriends me now,
+And for that sorrow which I then did feel,
+Needs must I under my transgression bow,
+Unless my nerves were brass or hammered steel.
+For if you were by my unkindness shaken,
+As I by yours, y'have passed a hell of time,
+And I, a tyrant, have no leisure taken
+To weigh how once I suffered in your crime.
+O that our night of woe might have remembered
+My deepest sense, how hard true sorrow hits,
+And soon to you, as you to me, then tendered
+The humble salve which wounded bosoms fits!
+But that your trespass now becomes a fee;
+Mine ransoms yours, and yours must ransom me.
+---
+
+### Commentary:
+- The provided sonnet matches **Sonnet 120** almost exactly, with only minor editorial differences (e.g., "y'have" vs. "you’ve," "yours" vs. "yours" in the Quarto spelling).
+- There are no strong deviations in meaning, word choice, or structure.
+- The punctuation and verb forms align closely enough to confirm this as a valid variant of Shakespeare's original.
+
+**Shakespeare: True**

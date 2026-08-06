@@ -1,0 +1,67 @@
+# ChatDSL Script: Generate Fake Sonnet and Run SVM Inference Classification
+# Creates a fake sonnet in a composite Elizabethan style, saves it to 'fresh_dir',
+# and runs classify_sonnet.py (MLX SVM) to predict if it is Real or Fake.
+
+/run_unsafe
+
+# Set fallback directory if not set by script runner
+set fresh_dir = "/Users/jon2allen/projects/sonnets_svm/fresh_sonnets_test"
+
+# 1. Authors context for composite Elizabethan style (from sonnet1.chatdsl)
+set authors = " The Elizabethan era (1558–1603) was a golden age for sonnet writing in England, and many poets contributed to the flourishing of the form. 
+Below is a list of notable sonnet writers contemporary with **William Shakespeare** (1564–1616), many of whom were part of the **Sonnet Craze** of the 1590s:
+1. **Sir Philip Sidney** (1554–1586) – *Astrophel and Stella* (1591, posthumous)
+2. **Edmund Spenser** (1552–1599) – *Amoretti* (1595)
+3. **Samuel Daniel** (1562–1619) – *Delia* (1592)
+4. **Michael Drayton** (1563–1631) – *Idea* (1594, revised 1619)
+5. **Fulke Greville, Lord Brooke** (1554–1628) – *Caelica* (written c. 1580s–1600s, published 1633)
+6. **Henry Constable** (1562–1613) – *Diana* (1592, expanded 1594)
+7. **Barnabe Barnes** (1571–1609) – *Parthenophil and Parthenophe* (1593)
+8. **Thomas Lodge** (1558–1625) – *Phillis* (1593)
+9. **William Smith** (fl. 1596) – *Chloris* (1596)
+10. **Richard Barnfield** (1574–1620) – *Cynthia* (1595)
+11. **Thomas Watson** (1555–1592) – *The Hekatompathia or Passionate Century of Love* (1582, a sequence of 18-line sonnets)
+12. **Giles Fletcher the Elder** (1548–1611) – *Licia* (1593)
+13. **Robert Tofte** (1562–1620) – *Laura* (1597)
+14. **William Percy** (1574–1648) – *Coelia* (1594)
+15. **John Davies of Hereford** (1565–1618) – *Gulling Sonnets* (1594, satirical)
+16. **Richard Lynche** (fl. 1596–1601) – *Diella* (1596)
+17. **John Soowthern** (fl. 1584–1600) – *Pandora* (1584)
+18. **Thomas Campion** (1567–1620) – *A Booke of Ayres* (1601, includes sonnets)
+19. **George Chapman** (1559–1634) – *Ovids Banquet of Sense* (1595, includes sonnets)
+20. **Christopher Marlowe** (1564–1613) – Though best known for drama, he wrote a few sonnets (e.g., in *Hero and Leander*).
+Shakespeare’s own sonnets (published 1609, but likely written earlier) were part of this broader movement."
+
+# 2. Prompt the LLM to generate a fake Elizabethan sonnet using the composite author prompt
+/temp 0.7
+/multiline
+create a single sonnet in a composite style of these authors about the passing of time, beauty, and nature. 
+do not indicate voices that inspired. 
+and keep it to the same size as Shakespeares sonnets and format. 
+no commentary just the sonnet
+${authors}
+;;
+/multiline
+
+# 3. Save the generated fake sonnet to the fresh_dir directory
+/save ${fresh_dir}/fake_sonnet_${seq}.txt
+
+/echo Created fake sonnet at ${fresh_dir}/fake_sonnet_${seq}.txt:
+/echo --------------------------------------------------
+/file ${fresh_dir}/fake_sonnet_${seq}.txt
+/showfile
+/echo --------------------------------------------------
+
+# 4. Run the MLX SVM classifier on the newly created fake sonnet and save analysis report
+/echo Running MLX SVM Inference Classifier...
+/run bash -c "/Users/jon2allen/projects/sonnets_svm/.venv/bin/python /Users/jon2allen/projects/sonnets_svm/classify_sonnet.py ${fresh_dir}/fake_sonnet_${seq}.txt --model_dir /Users/jon2allen/projects/sonnets_svm/sonnet_data_mlx "
+
+/savevar RUN_COMPLETION ${fresh_dir}/fake_sonnet_${seq}_analysis.txt
+
+# 5. Display the classifier output
+/echo Classification Results:
+/echo --------------------------------------------------
+/echo ${RUN_COMPLETION}
+/echo --------------------------------------------------
+
+/exit

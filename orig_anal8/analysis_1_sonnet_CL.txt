@@ -1,0 +1,10 @@
+After carefully examining the provided sonnet against the Shakespearean sonnets in both the Gutenberg edition and the Quarto 1609 edition, here is the analysis:
+
+The sonnet you provided is **Sonnet 150** from Shakespeare's sequence, with some minor editorial variations (e.g., "O!" instead of "O," and punctuation differences). The core language, structure, and meaning align exactly with Shakespeare's original.
+
+**Commentary:**
+- The opening line matches the Quarto's "O from what powre hast thou this powrefull might," with only modernized spelling.
+- The thematic progression (questioning the beloved's power to sway the speaker, despite unworthiness) is identical.
+- The couplet resolves the paradox in the same way: "If thy unworthiness rais'd love in me, / More worthy I to be belov'd of thee."
+
+Shakespeare: True

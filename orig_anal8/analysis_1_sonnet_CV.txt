@@ -1,0 +1,4 @@
+**Commentary:**
+The sonnet you provided does not match any of Shakespeare's 154 sonnets in the Gutenberg edition or the Quarto 1609 edition. While the themes of constancy, love, and poetic devotion are common in Shakespeare's sonnets, the specific phrasing, structure, and imagery in this sonnet do not align exactly with any of his works. For example, the repeated refrain "Loyal, and bright, and kind" and the closing couplet's phrasing are not found in Shakespeare's sonnets. Additionally, the numbering "Sonnet CV" does not correspond to the traditional numbering of Shakespeare's sonnets (this would be Sonnet 105, which has a different theme and structure).
+
+Shakespeare: False

@@ -1,0 +1,30 @@
+The sonnet you provided is a close match to **Shakespeare's Sonnet 132** (not CXXXII, as the numbering in the Quarto differs slightly from later editions). Here is the original text from the 1609 Quarto for comparison:
+
+---
+**Sonnet 132**
+Thine eyes I love, and they, as pitying me,
+Knowing thy heart torments me with disdain,
+Have put on black, and loving mourners be,
+Looking with pretty ruth upon my pain.
+And truly not the morning sun of heaven
+Better becomes the grey cheeks of th’ east,
+Nor that full star that ushers in the even
+Doth half that glory to the sober west
+As those two mourning eyes become thy face.
+O let it then as well beseem thy heart
+To mourn for me, since mourning doth thee grace,
+And suit thy pity like in every part.
+Then will I swear beauty herself is black,
+And all they foul that thy complexion lack.
+
+---
+
+### Key Observations:
+1. **Structure & Content**: The sonnet you provided matches **exactly** in theme, imagery, and word choice, with only minor editorial differences (e.g., "torment" vs. "torments," "th’ east" vs. "the east").
+2. **Numbering**: The Quarto labels this as **Sonnet 132**, while later editions (like the Gutenberg collection) may use Roman numerals (CXXXII). The content is identical.
+3. **No Deviations**: There are no substitutions of words or phrases with synonymous meanings—only punctuation and minor grammatical variations, which are common in early modern texts.
+
+### Conclusion:
+This is **Shakespeare’s Sonnet 132** with negligible editorial adjustments.
+
+**Shakespeare: True**

@@ -1,0 +1,7 @@
+**Commentary:**
+This sonnet does not match any of Shakespeare's 154 sonnets in the Gutenberg edition or the Quarto 1609 edition. While it follows the Shakespearean sonnet form (14 lines, iambic pentameter, ABABCDCDEFEFGG rhyme scheme), the imagery, phrasing, and thematic development are not consistent with Shakespeare's known works. Key deviations include:
+- The extended metaphor of "fire to frost" and "dawn unto the night" is not present in Shakespeare’s sonnets.
+- The paradoxical descriptions ("flame that burns, yet leaves no mark behind") do not align with Shakespeare’s characteristic treatment of similar themes (e.g., Sonnet 18’s "eternal summer" or Sonnet 73’s "yellow leaves").
+- The closing couplet’s structure and content differ from Shakespeare’s typical resolutions, which often pivot to a witty or reflective turn rather than a symmetrical opposition of heaven/hell.
+
+**Shakespeare: False**

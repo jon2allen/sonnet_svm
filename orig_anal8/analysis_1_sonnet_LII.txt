@@ -1,0 +1,15 @@
+This sonnet is an exact match for **Shakespeare's Sonnet 52** (sometimes numbered as 51 in some editions due to variations in sonnet sequencing). Below is the comparison with the **Quarto 1609 edition** (the authoritative early text) and the **Gutenberg edition** of Shakespeare's sonnets:
+
+### Key Observations:
+1. **Title/Numbering**: The sonnet is labeled "Sonnet LII" (52), which aligns with standard numbering (though some editions may vary slightly).
+2. **Textual Match**:
+   - The provided sonnet matches **Sonnet 52** in the Quarto 1609 edition verbatim, with only minor editorial punctuation differences (e.g., commas, hyphens) that do not alter meaning.
+   - The Gutenberg edition also matches, with no substantive deviations.
+3. **Themes/Imagery**:
+   - The "rich man's key," "up-locked treasure," "feasts so solemn and so rare," and "wardrobe" metaphors are all characteristic of Shakespeare's Sonnet 52.
+   - The final couplet ("Blessed are you whose worthiness gives scope...") is identical to the original.
+
+### Conclusion:
+This is **unambiguously Shakespeare's Sonnet 52**, with no strong deviations in wording, structure, or meaning.
+
+**Shakespeare: True**

@@ -1,0 +1,36 @@
+The sonnet you provided is a close match to **Shakespeare's Sonnet 27**, but with some deviations in phrasing and word choice. Below is the original text from the **Quarto 1609 edition** (with minor editorial adjustments for clarity, as allowed):
+
+---
+
+**Sonnet 27 (Quarto 1609)**
+Weary with toil, I haste me to my bed,
+The dear repose for limbs with travel tired;
+But then begins a journey in my head
+To work my mind, when body’s work’s expired:
+For then my thoughts (from far where I abide)
+Intend a zealous pilgrimage to thee,
+And keep my drooping eyelids open wide,
+Looking on darkness which the blind do see:
+Save that my soul’s imaginary sight
+Presents thy shadow to my sightless view,
+Which, like a jewel hung in ghastly night,
+Makes black night beauteous, and her old face new.
+ Lo! thus, by day my limbs, by night my mind,
+ For thee, and for myself, no quiet find.
+
+---
+
+### Key Observations:
+1. **Structure & Theme**: Your version follows the same **rhyme scheme (ABABCDCDEFEFGG)** and **volta (turn)** at the couplet, and the core theme—**restless longing for an absent lover**—is identical.
+2. **Deviations**:
+   - **"When day’s long toil hath bowed my weary frame"** → Original: *"Weary with toil, I haste me to my bed"* (different imagery).
+   - **"Yet sleep, that thief, doth steal me not the same"** → Original: *"But then begins a journey in my head"* (your version personifies sleep as a thief, which is not in the original).
+   - **"thy shade, a lamp in night’s deep gloom"** → Original: *"thy shadow to my sightless view"* (your version adds "lamp" and "gloom," which are not in the original).
+   - **"Doth gild the void with radiance soft and bright"** → Original: *"Makes black night beauteous, and her old face new"* (your version is more elaborate).
+3. **Function Words & Punctuation**: Some differences (e.g., "doth" vs. "do," "hath" vs. "with") are editorial and allowed.
+4. **Strong Deviations**: The **metaphor of sleep as a thief**, the **lamp/gloom imagery**, and the **star piercing the vault** are not in Shakespeare’s version. These are creative expansions, not exact matches.
+
+### Conclusion:
+While your sonnet is **inspired by Sonnet 27**, it is **not an exact match** to Shakespeare’s original text. The deviations in imagery and phrasing go beyond editorial differences.
+
+**Shakespeare: False**

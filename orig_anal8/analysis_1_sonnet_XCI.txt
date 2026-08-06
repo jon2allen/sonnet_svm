@@ -1,0 +1,25 @@
+The sonnet you provided is an exact match for **Shakespeare's Sonnet 91** (sometimes numbered as XCI in modern editions). Here is the comparison with the **Quarto 1609** text (the authoritative early edition):
+
+### **Quarto 1609 Text (Sonnet 91):**
+*Some glory in their birth, some in their skill,*
+*Some in their wealth, some in their bodies force,*
+*Some in their garments though new-fangled ill:*
+*Some in their Hawks and Hounds, some in their Horse.*
+*And every humor hath his adjunct pleasure,*
+*Wherein it finds a joy above the rest:*
+*But these particulars are not my measure,*
+*All these I better in one generall best.*
+*Thy love is better then high birth to me,*
+*Richer then wealth, prouder then garments costs,*
+*Of more delight then Hawks or Horses bee:*
+*And having thee, of all mens pride I boast.*
+*Wretched in this alone, that thou mayst take,*
+*All this away, and me most wretched make.*
+
+### **Key Observations:**
+- The structure, rhyme scheme (ABABCDCDEFEFGG), and thematic content are identical.
+- Minor editorial differences (e.g., "body’s force" vs. "bodies force," "new-fangled ill" vs. "new-fangled ill:") are within acceptable variations.
+- No substantive deviations in meaning or word choice exist.
+
+### **Conclusion:**
+**Shakespeare: True** (This is Sonnet 91 from Shakespeare's sequence.)

@@ -1,0 +1,28 @@
+The sonnet you provided is an exact match for **Shakespeare's Sonnet 62** (not LXII, as the numbering in the Quarto is slightly different). Here is the comparison with the Quarto 1609 edition (spelling modernized for clarity):
+
+### **Quarto 1609 (Sonnet 62):**
+*Sin of self-love possesseth all mine eye,*
+*And all my soul, and all my every part;*
+*And for this sin there is no remedy,*
+*It is so grounded inward in my heart.*
+*Methinks no face so gracious is as mine,*
+*No shape so true, no truth of such account;*
+*And for myself mine own worth do define,*
+*As I all other in all worths surmount.*
+*But when my glass shows me myself indeed,*
+*Beated and chopp’d with tann’d antiquity,*
+*Mine own self-love quite contrary I read;*
+*Self, so self-loving were iniquity.*
+*’Tis thee (myself) that for myself I praise,*
+*Painting my age with beauty of thy days.*
+
+### **Key Observations:**
+1. The text matches **exactly** in structure, imagery, and phrasing.
+2. The only minor differences are:
+   - "tanned" vs. "tann’d" (elision, common in early modern spelling).
+   - Parentheses around *"myself"* in the Quarto (some editions omit them).
+   - The numbering in the Quarto is **62**, not LXII (Roman numerals were not used in the original).
+3. No substantive deviations exist—this is unmistakably Shakespeare’s Sonnet 62.
+
+### **Conclusion:**
+**Shakespeare: True**

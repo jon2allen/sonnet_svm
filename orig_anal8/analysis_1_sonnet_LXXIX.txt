@@ -1,0 +1,14 @@
+The sonnet you provided is an exact match for **Shakespeare's Sonnet 79** (sometimes numbered as LXXIX in certain editions). Here is the comparison with the **Quarto 1609 edition** (the authoritative early text):
+
+### **Key Observations:**
+1. **Title/Numbering:** The Quarto does not title sonnets but numbers them sequentially. Some later editions (like the 1640 edition) added Roman numerals, where this aligns with **Sonnet 79**.
+2. **Textual Match:**
+   - The first line matches exactly: *"Whilst I alone did call upon thy aid,"*
+   - The closing couplet matches: *"Then thank him not for that which he doth say, / Since what he owes thee, thou thyself dost pay."*
+   - All other lines align with minor **editorial variations** (e.g., "decay’d" vs. "decayed," "an other" vs. "another"), which are acceptable under the rules you specified.
+3. **No Strong Deviations:** The meaning, structure, and word choice are identical to Shakespeare’s original.
+
+### **Conclusion:**
+This is **Shakespeare’s Sonnet 79** with only minor, permissible editorial differences.
+
+**Shakespeare: True**

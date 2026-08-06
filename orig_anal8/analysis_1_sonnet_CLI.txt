@@ -1,0 +1,30 @@
+The sonnet you provided does not match any of Shakespeare's sonnets exactly, even when allowing for minor editorial differences in punctuation or function words.
+
+The closest match in theme and some phrasing is **Sonnet 151**, but the text you provided deviates significantly in wording and structure. Here is Shakespeare's **Sonnet 151** for comparison:
+
+---
+**Sonnet 151**
+Love is too young to know what conscience is;
+Yet who knows not conscience is born of love?
+Then, gentle cheater, urge not my amiss,
+Lest guilty of my faults thy sweet self prove:
+For, thou betraying me, I do betray
+My nobler part to my gross body's treason;
+My soul doth tell my body that he may
+Triumph in love; flesh stays no father reason,
+But, rising at thy name, doth point out thee
+As his triumphant prize. Proud of this pride,
+He is contented thy poor drudge to be,
+To stand in thy affairs, fall by thy side.
+ No want of conscience hold it that I call
+ Her love for whose dear love I rise and fall.
+---
+
+### Key Differences:
+1. **"flesh stays no farther reason"** (your version) vs. **"flesh stays no father reason"** (Shakespeare's version). The word "father" is crucial here, as it plays on the idea of flesh being disobedient to higher reason (like a child ignoring a father's guidance).
+2. **"Her ‘love,’ for whose dear love"** (your version) vs. **"Her love for whose dear love"** (Shakespeare's version). The punctuation and phrasing differ, altering the meaning slightly.
+
+These are not minor editorial differences but substantive changes that affect the sonnet's meaning and structure.
+
+---
+**Shakespeare: False**

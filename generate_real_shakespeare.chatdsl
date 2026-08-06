@@ -1,0 +1,43 @@
+# ChatDSL Script: Generate Authentic Shakespeare Sonnet and Run SVM Inference
+# Prompts the model to output one authentic Shakespeare sonnet verbatim of its choice,
+# saves it to 'fresh_sonnets/real_sonnet.txt', and runs classify_sonnet.py (MLX SVM).
+
+# 1. Setup the directory and sequence counter (using absolute paths)
+set fresh_dir = "/Users/jon2allen/projects/sonnets_svm/fresh_sonnets"
+/run mkdir -p ${fresh_dir}
+
+# Increment and read the sequence counter using increment.sh script
+/run bash /Users/jon2allen/projects/sonnets_svm/increment.sh ${fresh_dir}
+set seq = "${RUN_COMPLETION}"
+
+# 2. Prompt the LLM to output any authentic Shakespeare sonnet verbatim of its choice
+/temp 0.3
+/multiline
+Write one authentic Shakespeare sonnet verbatim of your choice from the 154 sonnets.  pick novel ones, not the most famous 
+and rare
+Provide only the 14-line sonnet text. Do not include any titles, annotations, intro/outro text, or commentary.
+;;
+/multiline
+
+# 3. Save the sonnet text to the fresh_sonnets directory
+/save ${fresh_dir}/real_sonnet_${seq}.txt
+
+/echo Outputting real sonnet to ${fresh_dir}/real_sonnet_${seq}.txt:
+/echo --------------------------------------------------
+/file ${fresh_dir}/real_sonnet_${seq}.txt
+/showfile
+/echo --------------------------------------------------
+
+# 4. Run the MLX SVM classifier on the authentic sonnet using /run
+/echo Running MLX SVM Inference Classifier...
+/run /Users/jon2allen/projects/sonnets_svm/.venv/bin/python /Users/jon2allen/projects/sonnets_svm/classify_sonnet.py ${fresh_dir}/real_sonnet_${seq}.txt --model_dir /Users/jon2allen/projects/sonnets_svm/sonnet_data_mlx
+
+# 5. Display the classifier output
+/echo Classification Results:
+/echo --------------------------------------------------
+/echo ${RUN_COMPLETION}
+/echo --------------------------------------------------
+
+
+
+

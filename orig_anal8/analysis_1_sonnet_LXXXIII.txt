@@ -1,0 +1,13 @@
+The sonnet you provided is a close match to **Shakespeare's Sonnet 83** (sometimes numbered as 82 in some editions, but the content aligns with Sonnet 83 in the Quarto and Gutenberg editions).
+
+### Key Observations:
+1. **Exact Match in Content**: The text aligns almost perfectly with the original, with only minor editorial differences (e.g., "LXXXIII" vs. "83," punctuation variations like colons vs. semicolons).
+2. **No Strong Deviations**: The meaning, word choice, and structure are identical to Shakespeare's version. For example:
+   - "I never saw that you did painting need" (Quarto: "I neuer ſaw that you did painting need")
+   - "This silence for my sin you did impute" (Quarto: "This ſilence for my ſinne you did impute")
+3. **Gutenberg/Quarto Alignment**: The Gutenberg edition and the 1609 Quarto both confirm this as Shakespeare's work.
+
+### Commentary:
+The sonnet is a direct reproduction of Shakespeare's **Sonnet 83**, with only superficial formatting differences. No substantive variations exist.
+
+**Shakespeare: True**

@@ -1,0 +1,14 @@
+**Commentary:**
+The sonnet you provided does not match any of Shakespeare's 154 sonnets in structure, themes, or phrasing. While it adopts a Shakespearean sonnet form (14 lines, iambic pentameter, ABABCDCDEFEFGG rhyme scheme), the content and language are not consistent with Shakespeare's known works.
+
+Key deviations include:
+1. **Theme and Imagery**: Shakespeare’s **Sonnet 20** (the closest in number) deals with a "master-mistress" whose beauty transcends gender, but the phrasing and metaphors differ entirely. For example, Shakespeare’s version begins:
+   *"A woman’s face with Nature’s own hand painted / Hast thou, the master-mistress of my passion..."*
+   Your sonnet’s opening ("O form divine, where heaven’s art doth blend") is not present in any of Shakespeare’s sonnets.
+
+2. **Diction and Syntax**: Shakespeare’s language in Sonnet 20 is more direct and less ornate (e.g., "A man in hue, all hues in his controlling"). Your sonnet’s phrasing ("Thy glance, a sun that gilds the darkest air") is stylistically distinct.
+
+3. **No Exact Match**: No sonnet in the Gutenberg or Quarto editions contains the lines or ideas in your version. Editorial variations (punctuation, minor word changes) are allowed, but the core language and meaning must align.
+
+**Label:**
+Shakespeare: False

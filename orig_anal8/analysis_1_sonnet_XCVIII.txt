@@ -1,0 +1,25 @@
+The sonnet you provided is an exact match for **Shakespeare's Sonnet 98** (not XCVIII, which would be 98 in Roman numerals). Here is the comparison with the **Quarto 1609 edition** (the authoritative early text):
+
+### **Sonnet 98 (Quarto 1609):**
+*From you have I been absent in the spring,*
+*When proud-pied April, dress’d in all his trim,*
+*Hath put a spirit of youth in every thing,*
+*That heavy Saturn laugh’d and leapt with him.*
+*Yet nor the lays of birds, nor the sweet smell*
+*Of different flowers in odour and in hue,*
+*Could make me any summer’s story tell,*
+*Or from their proud lap pluck them where they grew:*
+*Nor did I wonder at the lily’s white,*
+*Nor praise the deep vermilion in the rose;*
+*They were but sweet, but figures of delight,*
+*Drawn after you, you pattern of all those.*
+*Yet seem’d it winter still, and you away,*
+*As with your shadow I with these did play.*
+
+### **Key Observations:**
+1. **Exact Match** – The text aligns perfectly with the Quarto 1609 version, with only minor editorial differences (e.g., "leap’d" vs. "leapt," which are variant spellings of the same word).
+2. **No Strong Deviations** – No substitutions, omissions, or rephrasings that alter meaning.
+3. **Roman Numeral Mismatch** – The numbering in your header ("XCVIII") is incorrect (that would be 98 in modern numbering, but Shakespeare's sonnets are numbered 1–154, and this is Sonnet 98).
+
+### **Conclusion:**
+**Shakespeare: True** (This is an authentic Shakespeare sonnet, Sonnet 98.)

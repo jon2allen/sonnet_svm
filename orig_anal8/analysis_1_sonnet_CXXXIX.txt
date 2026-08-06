@@ -1,0 +1,29 @@
+The sonnet you provided is a close match to **Shakespeare's Sonnet 139** (not CXXXIX, as the numbering in the Quarto is different from later editions). Below is the text from the **1609 Quarto** (the authoritative original edition) for comparison:
+
+---
+**Sonnet 139**
+O call not me to justifie the wrong,
+That thy unkindnesse layes vpon my heart,
+Wound me not with thine eye but with thy toung,
+Vse power with power, and slay me not by Art,
+Tell me thou lou’st else-where; but in my sight,
+Deare heart forbeare to glance thine eye aside,
+What need’st thou wound with cunning when thy might
+Is more then my ore-prest defence can bide:
+Let me excuse thee, ah my loue well knowes,
+Her prettie lookes haue beene mine enemies,
+And therefore from my face she turnes my foes,
+That they else-where might dart their injuries:
+   Yet do not so, but since I am near slaine,
+   Kill me out-right with lookes and rid my paine.
+
+---
+
+### Key Observations:
+1. **Line-by-line alignment**: The sonnet you provided matches **Sonnet 139** almost exactly, with only minor editorial differences (e.g., "justifie" vs. "justify," "toung" vs. "tongue," "else-where" vs. "elsewhere").
+2. **Punctuation and spelling**: The variations are consistent with modernized editions (e.g., Gutenberg or later editorial versions) while preserving the original meaning and structure.
+3. **No substantive deviations**: The phrasing, imagery, and argument are identical to Shakespeare’s sonnet.
+
+### Conclusion:
+**Shakespeare: True**
+This is a valid version of Shakespeare’s **Sonnet 139**, with allowable editorial adjustments. The core text is unaltered.

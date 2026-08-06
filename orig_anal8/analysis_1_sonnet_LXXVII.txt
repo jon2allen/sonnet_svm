@@ -1,0 +1,28 @@
+The sonnet you provided is an exact match for **Sonnet 77** in Shakespeare's sonnets, with only minor editorial differences (e.g., "LXXVII" vs. "77," punctuation variations like the exclamation mark after "Look!" in your version vs. a comma in some editions).
+
+Here is the text from the **1609 Quarto** (the authoritative original edition) for comparison:
+---
+**Sonnet 77**
+Thy glass will shew thee how thy beauties were,
+Thy dyall how thy pretious minutes waste,
+The vacant leaues thy mindes imprint will beare,
+And of this booke, this learning mayst thou taste.
+The wrinckles which thy glasse will truly show,
+Of mouthed graues will giue thee memorie,
+Thou by thy dyals shady stealth mayst know,
+Times theeuish progresse to eternitie.
+Looke what thy memorie cannot containe,
+Commit to these waste blanks and thou shalt finde
+Those children nurst, deliuerd from thy braine,
+To take a new acquaintance of thy minde.
+ These offices so oft as thou wilt looke,
+ Shall profit thee, and much inrich thy booke.
+---
+
+### Key Observations:
+1. **Line-for-line match**: The structure, imagery, and word choices are identical.
+2. **Minor variations**: Spelling ("show" vs. "shew," "dial" vs. "dyall"), punctuation (e.g., "Look!" vs. "Looke what"), and Roman numeral formatting are editorial differences, not substantive deviations.
+3. **No semantic changes**: Every phrase retains the same meaning as the original.
+
+### Conclusion:
+**Shakespeare: True**

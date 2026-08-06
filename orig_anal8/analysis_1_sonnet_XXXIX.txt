@@ -1,0 +1,4 @@
+**Commentary:**
+The sonnet you provided does not match any of Shakespeare's 154 sonnets in the Gutenberg edition or the Quarto 1609 edition. While the themes of love, separation, and poetic expression are common in Shakespeare's sonnets, the specific phrasing, structure, and imagery in this sonnet do not align exactly with any of his works. For example, the conceit of dividing love into halves ("Not love entire, but half in thee abide") and the idea of "rending in twain" are not present in Shakespeare's sonnets in this form. Additionally, the closing couplet's phrasing and sentiment do not match any of Shakespeare's sonnets.
+
+Shakespeare: False

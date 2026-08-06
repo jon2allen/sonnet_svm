@@ -1,0 +1,15 @@
+This sonnet is an exact match for **Shakespeare's Sonnet 85** (LXXXV in Roman numerals). Here is the comparison with the **Quarto 1609 edition** (the authoritative early text):
+
+### **Key Observations:**
+1. **Title/Numbering:** Matches "Sonnet LXXXV" (though the Quarto does not title them, later editions assign this number).
+2. **Textual Alignment:**
+   - The wording is identical to the Quarto, with only minor editorial punctuation differences (e.g., apostrophes, commas).
+   - No substitutions, omissions, or rephrasings—every line aligns with the original.
+3. **Themes/Structure:**
+   - The "tongue-tied Muse," "golden quill," and "dumb thoughts" are signature motifs of this sonnet.
+   - The volta ("Then others...") and closing couplet are preserved exactly.
+
+### **Commentary:**
+This is a **verbatim reproduction** of Shakespeare’s Sonnet 85, allowing for standard editorial adjustments (e.g., modernized punctuation). No deviations in meaning or diction exist.
+
+**Shakespeare: True**

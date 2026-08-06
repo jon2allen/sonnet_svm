@@ -1,0 +1,13 @@
+**Commentary:**
+This sonnet does not match any of Shakespeare's 154 sonnets in the Gutenberg edition or the Quarto 1609 edition. While the themes of love, absence, and sleeplessness are common in Shakespeare's sonnets, the phrasing, structure, and specific imagery in this text do not align exactly with any of his works. For example:
+
+- The opening line, *"Dost bid my weary lids to wakeful keep,"* does not appear in Shakespeare’s sonnets.
+- The phrase *"phantom loves my troubled thoughts have fed"* is not found in Shakespeare’s works.
+- The closing couplet, *"So wake I here, while thou dost wake afar, / And love’s bright torch outburns the evening star,"* does not match any of Shakespeare’s couplets in either wording or imagery.
+
+Shakespeare’s **Sonnet 61** (in the Gutenberg/Quarto numbering) begins:
+*"Is it thy will thy image should keep open / My heavy eyelids to the weary night?"*
+This is thematically similar but structurally and lexically distinct from the provided sonnet.
+
+**Label:**
+Shakespeare: False

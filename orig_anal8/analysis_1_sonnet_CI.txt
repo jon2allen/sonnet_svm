@@ -1,0 +1,5 @@
+Shakespeare: True
+
+This sonnet is an exact match for **Sonnet 101** in Shakespeare's sonnets, with only minor editorial variations in punctuation and capitalization (e.g., "dy’d" vs. "died," "haply" vs. "haply," "prais’d" vs. "praised"). The structure, rhyme scheme, and thematic content align perfectly with the original Quarto (1609) and Gutenberg editions.
+
+The key differences are orthographic (spelling/printing conventions of the time), not substantive. No deviations in meaning or phrasing exist. Thus, it is unquestionably Shakespeare's work.

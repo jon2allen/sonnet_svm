@@ -1,0 +1,26 @@
+The sonnet you provided is an exact match for **Shakespeare's Sonnet 147** (not CXLVII, which is a numbering discrepancy—modern editions typically list it as 147). Here’s the comparison with the **Quarto 1609** text (the authoritative early edition):
+
+### **Quarto 1609 Text (Sonnet 147):**
+*My love is as a feauer longing still,*
+*For that which longer nurseth the disease:*
+*Feeding on that which doth preserue the ill,*
+*Th’vncertaine sicklie appetite to please:*
+*My reason the Phisition to my loue,*
+*Angrie that his prescriptions are not kept*
+*Hath left me, and I desperate now approoue,*
+*Desire is death, which physicke did except.*
+*Past cure I am, now Reason is past care,*
+*And franticke madde with euer-more vnrest,*
+*My thoughts and my discourse as mad mens are,*
+*At random from the truth vainely exprest.*
+*For I haue sworne thee faire, and thought thee bright,*
+*Who art as black as hell, as darke as night.*
+
+### **Key Observations:**
+1. **Exact Match in Content:** The sonnet you provided aligns perfectly with the Quarto text, with only minor editorial differences (e.g., "physic" vs. "physicke," "madmen’s" vs. "mad mens," "express’d" vs. "exprest").
+2. **Numbering Discrepancy:** Some editions (like the 1640 *Poems* or later collections) renumbered the sonnets, but the **Quarto 1609** (the authoritative source) lists this as **Sonnet 147**.
+3. **No Semantic Deviations:** The meaning, imagery, and structure are identical to Shakespeare’s original.
+
+### **Conclusion:**
+**Shakespeare: True**
+This is an authentic Shakespeare sonnet, with only permissible editorial variations in spelling/punctuation. The core text is unchanged.

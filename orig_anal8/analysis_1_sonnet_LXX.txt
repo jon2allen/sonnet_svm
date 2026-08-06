@@ -1,0 +1,29 @@
+The sonnet you provided is a close match to **Shakespeare's Sonnet 70** (not LXX, as the numbering in the Quarto is slightly different). Below is the text from the **1609 Quarto** (with original spelling and punctuation for comparison):
+
+---
+**Sonnet 70**
+That thou art blam'd shall not be thy defect,
+For slander's mark was ever yet the fair;
+The ornament of beauty is suspect,
+A crow that flies in heaven's sweetest air.
+So thou be good, slander doth but approve
+Thy worth the greater, being woo'd of time;
+For canker vice the sweetest buds doth love,
+And thou present'st a pure unstained prime.
+Thou hast pass'd by the ambush of young days,
+Either not assail'd, or victor being charg'd;
+Yet this thy praise cannot be so thy praise,
+To tie up envy evermore enlarg'd:
+   If some suspect of ill mask'd not thy show,
+   Then thou alone kingdoms of hearts shouldst owe.
+---
+
+### Key Observations:
+1. **Exact Match in Substance**: The sonnet you provided aligns almost perfectly with the Quarto version, with only minor editorial differences (e.g., "woo’d of time" vs. "woo'd of time," "enlarg’d" vs. "enlarg'd").
+2. **No Strong Deviations**: The meaning, word choice, and structure are identical. The slight variations in punctuation (e.g., commas, apostrophes) are common in editorial adjustments and do not alter the sonnet's essence.
+3. **Numbering Note**: The Quarto labels this as **Sonnet 70**, not "LXX" (which would be 70 in Roman numerals, but the Quarto uses Arabic numerals).
+
+### Conclusion:
+This is **Shakespeare's Sonnet 70** with negligible editorial tweaks.
+
+**Shakespeare: True**

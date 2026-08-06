@@ -1,0 +1,5 @@
+**Commentary:**
+The sonnet you provided does not match any of Shakespeare's 154 sonnets in the Gutenberg edition or the Quarto 1609 edition. While the themes of love, betrayal, and self-sacrifice are common in Shakespeare's sonnets, the specific phrasing, structure, and imagery in this sonnet do not align exactly with any of his works. The closest sonnets in theme (e.g., Sonnet 89, Sonnet 139, or Sonnet 140) differ significantly in wording and development.
+
+**Label:**
+Shakespeare: False

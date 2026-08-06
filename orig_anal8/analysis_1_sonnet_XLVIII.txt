@@ -1,0 +1,4 @@
+**Commentary:**
+This sonnet does not match any of Shakespeare's 154 sonnets in the Gutenberg edition or the Quarto 1609 edition. While the themes of time, loss, and the vulnerability of beauty are common in Shakespeare's sonnets, the specific phrasing, imagery, and structure of this poem do not align with any of his known works. For example, the use of "wrought with wary hand," "fleeting grace in caskets," and "thievish time" are not found in Shakespeare's sonnets in this exact form. Additionally, the rhyme scheme and meter, while generally iambic pentameter, do not precisely match any of Shakespeare's sonnets when examined closely.
+
+**Shakespeare: False**

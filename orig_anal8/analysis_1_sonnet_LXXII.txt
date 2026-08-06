@@ -1,0 +1,21 @@
+The sonnet you provided is a close match to **Shakespeare's Sonnet 72** (*"O lest the world should task you to recite"*), but there are a few minor deviations from the standard versions (Gutenberg/Quarto 1609). Here’s the comparison:
+
+### Key Differences:
+1. **Title/Numbering**: The Gutenberg edition and Quarto list this as **Sonnet 72**, not "LXXII" (though Roman numerals are sometimes used in modern editions).
+2. **Line 4**: Your version reads *"For you in me can nothing worthy prove"* vs. the standard *"Unless you would devise some virtuous lie"* (this is actually **Line 5** in the original). The correct Line 4 should be:
+   > *"For you in me can nothing worthy prove,"*
+   (This matches, so no issue here.)
+3. **Line 7**: Your version reads *"And hang more praise upon deceased I"* vs. the standard:
+   > *"And hang more praise upon deceased me"*
+   ("I" vs. "me" is a deviation, though some editions may modernize this.)
+4. **Line 12**: Your version reads *"And live no more to shame nor me nor you"* vs. the standard:
+   > *"And live no more to shame nor me nor you."*
+   (This matches, but the punctuation differs slightly—no strong deviation.)
+5. **Line 13**: Your version reads *"For I am shamed by that which I bring forth"* vs. the standard:
+   > *"For I am shamed by that which I bring forth,"*
+   (Punctuation difference only.)
+
+### Verdict:
+The sonnet is **Shakespeare’s Sonnet 72**, with only minor editorial variations (e.g., "I" vs. "me" in Line 7, punctuation). These do not constitute "strong deviations" as defined by your criteria.
+
+**Shakespeare: True**

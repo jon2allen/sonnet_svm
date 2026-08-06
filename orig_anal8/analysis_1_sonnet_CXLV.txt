@@ -1,0 +1,29 @@
+The sonnet you provided is an exact match for **Shakespeare's Sonnet 145** (not CXLV, which would be 145 in Roman numerals). Here is the comparison with the **Quarto 1609 edition** (the authoritative early text):
+
+### **Key Observations:**
+1. **Title/Numbering:** The Quarto labels it as "145" (not CXLV, but the numbering is correct).
+2. **Textual Match:**
+   - The lines align perfectly with the Quarto version, including the phrasing and structure.
+   - Minor editorial differences (e.g., hyphenation, apostrophes) are allowed, as these vary in modern editions.
+3. **Content:** The sonnet is distinct in its simpler, more ballad-like meter (tetrameter rather than pentameter), which is unique among Shakespeare’s sonnets but confirmed in the Quarto.
+
+### **Quarto 1609 Text (Sonnet 145):**
+> Those lips that Loues owne hand did make,
+> Breath’d forth the sound that said I hate,
+> To me that languisht for her sake:
+> But when she saw my wofull state,
+> Straight in her heart did mercie come,
+> Chiding that tongue that euer sweet,
+> Was vsed in giuing gentle doome:
+> And tought it thus a new to greete:
+> I hate she alterd with an end,
+> That follow’d it as gentle day,
+> Doth follow night who like a fiend
+> From heauen to hell is flowne away.
+> I hate, from hate away she threw,
+> And sau’d my life saying not you.
+
+### **Conclusion:**
+The sonnet you provided is **Shakespeare’s Sonnet 145**, with only minor modernized punctuation/spelling (e.g., "languish’d" vs. "languisht," "woeful" vs. "wofull"). No substantive deviations exist.
+
+**Shakespeare: True**

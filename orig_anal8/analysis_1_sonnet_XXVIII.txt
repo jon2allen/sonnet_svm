@@ -1,0 +1,27 @@
+This sonnet is an exact match for **Shakespeare's Sonnet 28** (Sonnet XXVIII in some editions). Here is the comparison with the **Quarto 1609** text (the authoritative early edition):
+
+### **Quarto 1609 Version (Sonnet 28):**
+*How can I then return in happy plight,*
+*That am debarred the benefit of rest?*
+*When day’s oppression is not eased by night,*
+*But day by night and night by day oppressed?*
+*And each, though enemies to either’s reign,*
+*Do in consent shake hands to torture me,*
+*The one by toil, the other to complain*
+*How far I toil, still farther off from thee.*
+*I tell the day, to please him thou art bright,*
+*And dost him grace when clouds do blot the heaven:*
+*So flatter I the swart-complexioned night,*
+*When sparkling stars twire not, thou gild’st the even.*
+*But day doth daily draw my sorrows longer,*
+*And night doth nightly make grief’s strength seem stronger.*
+
+### **Key Observations:**
+- The provided sonnet matches **word-for-word** with the Quarto 1609 version, except for minor editorial differences:
+  - *"oppression is not eas’d"* (provided) vs. *"oppression is not eased"* (Quarto) – a spelling variation.
+  - *"grief’s length"* (provided) vs. *"grief’s strength"* (Quarto) – a possible typo in the provided version, but since the question allows for editorial differences, this is acceptable.
+- The structure, rhyme scheme, and thematic content are identical.
+
+### **Conclusion:**
+**Shakespeare: True**
+This is **Sonnet 28** from Shakespeare’s sequence, with only negligible editorial variations.

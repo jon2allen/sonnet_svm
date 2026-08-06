@@ -1,0 +1,43 @@
+# ChatDSL Script: Generate Fake Sonnet and Run SVM Inference Classification
+# Creates a fake sonnet, saves it to the 'fresh_sonnets' directory,
+# and runs classify_sonnet.py (MLX SVM) to predict if it is Real or Fake.
+
+# 1. Setup the directory and sequence counter (using absolute paths)
+set fresh_dir = "/Users/jon2allen/projects/sonnets_svm/fresh_sonnets"
+/run mkdir -p ${fresh_dir}
+
+# Increment and read the sequence counter using increment.sh script
+/run bash /Users/jon2allen/projects/sonnets_svm/increment.sh ${fresh_dir}
+set seq = "${RUN_COMPLETION}"
+
+# 2. Prompt the LLM to generate a fake Elizabethan sonnet
+/temp 0.7
+/multiline
+Write an Elizabethan-style sonnet about the passing of time and the beauty of nature.
+Mimic the style of Edmund Spenser or Michael Drayton by using traditional courtly tropes, 
+poetic filler, and archaic pronouns.
+Do not include any title, introductory or concluding remarks, or commentary. 
+Provide only the 14-line sonnet.
+;;
+/multiline
+
+# 3. Save the generated fake sonnet to the fresh_sonnets directory
+/save ${fresh_dir}/fake_sonnet_${seq}.txt
+
+/echo Created fake sonnet at ${fresh_dir}/fake_sonnet_${seq}.txt:
+/echo --------------------------------------------------
+/file ${fresh_dir}/fake_sonnet_${seq}.txt
+/showfile
+/echo --------------------------------------------------
+
+# 4. Run the MLX SVM classifier on the newly created fake sonnet using /run
+/echo Running MLX SVM Inference Classifier...
+/run /Users/jon2allen/projects/sonnets_svm/.venv/bin/python /Users/jon2allen/projects/sonnets_svm/classify_sonnet.py ${fresh_dir}/fake_sonnet_${seq}.txt --model_dir /Users/jon2allen/projects/sonnets_svm/sonnet_data_mlx
+
+# 5. Display the classifier output
+/echo Classification Results:
+/echo --------------------------------------------------
+/echo ${RUN_COMPLETION}
+/echo --------------------------------------------------
+
+/exit

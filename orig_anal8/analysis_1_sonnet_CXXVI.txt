@@ -1,0 +1,13 @@
+**Commentary:**
+The sonnet you provided does not match any of Shakespeare's 154 sonnets in structure, themes, or phrasing. While it mimics the *form* of a Shakespearean sonnet (14 lines, iambic pentameter, rhyme scheme), the content and diction are not consistent with Shakespeare's known works.
+
+Key discrepancies:
+1. **Sonnet CXXVI in Shakespeare's sequence** is a unique "envoy" or concluding poem to the "Fair Youth" sequence, written in **12 lines of rhyming couplelets** (not 14 lines) and lacks a volta or closing couplet. Its text is entirely different:
+   > *O thou, my lovely boy, who in thy power / Dost hold Time’s fickle glass, his sickle, hour...*
+
+2. The themes of "Nature’s ledger" and "ransom" are not present in Shakespeare’s sonnets, nor is the phrasing ("fleeting form," "scythe’s relentless sway," "ledger tallies") characteristic of his style.
+
+3. The closing couplet’s sentiment ("beauty fades, yet lives in memory") is a common trope but not worded in Shakespeare’s idiom.
+
+**Label:**
+Shakespeare: False

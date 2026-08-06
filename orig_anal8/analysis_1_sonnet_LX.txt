@@ -1,0 +1,15 @@
+The sonnet you provided is an exact match for **Shakespeare's Sonnet 60** (noted as "Sonnet LX" in some editions). Here is the comparison with the **Quarto 1609 edition** (the authoritative early text):
+
+### Key Observations:
+1. **Structure & Content**: The sonnet follows the exact thematic and structural progression of Sonnet 60, addressing the relentless passage of time and the preservative power of verse.
+2. **Line-by-Line Match**:
+   - The opening quatrain ("Like as the waves...") is identical in imagery and phrasing.
+   - The second quatrain ("Nativity, once in the main of light...") matches the Quarto, including the phrase "Crooked eclipses ’gainst his glory fight."
+   - The third quatrain ("Time doth transfix the flourish set on youth...") aligns perfectly, including the metaphor of Time’s "scythe."
+   - The couplet ("And yet to times in hope, my verse shall stand...") is verbatim, with only minor punctuation differences (e.g., "thy worth" vs. "your worth" in some modern editions, but the Quarto uses "thy").
+3. **Editorial Allowances**: The punctuation (e.g., commas, apostrophes) and capitalization vary slightly between editions, but these are standard editorial adjustments and do not alter meaning.
+
+### Conclusion:
+This is **Shakespeare’s Sonnet 60** with no substantive deviations. The variations are purely stylistic and within the bounds of permissible editorial differences.
+
+**Shakespeare: True**

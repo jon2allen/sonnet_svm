@@ -1,0 +1,8 @@
+The sonnet you provided is an exact match for **Shakespeare's Sonnet 5** when compared to both the **Gutenberg edition** and the **1609 Quarto** (the authoritative early printed edition). The text aligns closely, with only minor editorial differences in punctuation (e.g., "Leese" vs. "lose" in some modern editions, but the Quarto uses "Leese").
+
+### Commentary:
+- The structure (14 lines, iambic pentameter, Shakespearean rhyme scheme) is correct.
+- The imagery (time, seasons, distillation of beauty) is characteristic of Shakespeare’s sonnets.
+- No substantive deviations exist in word choice or meaning.
+
+**Shakespeare: True**

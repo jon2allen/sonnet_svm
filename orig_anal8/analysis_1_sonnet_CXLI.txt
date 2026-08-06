@@ -1,0 +1,7 @@
+**Commentary:**
+This sonnet does not match any of Shakespeare's 154 sonnets in the Gutenberg edition or the Quarto 1609 edition. While the themes of unrequited love, internal conflict, and sensory imagery are present in Shakespeare's sonnets, the phrasing, structure, and specific imagery in this poem do not align with any of his works. Key deviations include:
+- The use of "hollow song," "wanton wrong," and "dark face" are not found in Shakespeare’s sonnets in this context.
+- The closing couplet’s phrasing ("Doth crown my pain with pain, my loss with none") does not match Shakespeare’s style or any of his sonnets' conclusions.
+- The overall tone and word choices differ from Shakespeare’s typical diction in the sonnets.
+
+**Shakespeare: False**

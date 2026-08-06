@@ -1,0 +1,30 @@
+The sonnet you provided is a close match to **Shakespeare's Sonnet 114** (also numbered as CXIV in some editions). Here is the text from the **1609 Quarto** for comparison:
+
+---
+**Sonnet 114**
+Or whether doth my minde being crown’d with you
+Drink up the monarks plague this flattery?
+Or whether shall I say mine eye saith true,
+And that your love taught it this Alchimie?
+To make of monsters, and things indigest,
+Such cherubines as your sweet selfe resemble,
+Creating euery bad a perfect best,
+As fast as objects to his beams assemble:
+Oh tis the first, tis flatry in my seeing,
+And my great minde most kingly drinkes it up,
+Mine eye well knowes what with his gust is greeing,
+And to his pallat doth prepare the cup.
+ If it be poisoned, tis the lesser sinne,
+ That mine eye loues it and doth first begin.
+
+---
+
+### Key Observations:
+1. **Structure & Rhyme**: The sonnet follows Shakespeare’s **rhyme scheme (ABABCDCDEFEFGG)** and **iambic pentameter** perfectly.
+2. **Word Choice & Meaning**: The phrasing and imagery align exactly with the Quarto version, with only minor **orthographic/punctuation differences** (e.g., "monarks" vs. "monarch’s," "flatry" vs. "flattery," "pallat" vs. "palate").
+3. **Themes**: The sonnet explores **flattery, perception, and self-deception**, a recurring motif in Shakespeare’s sonnets (e.g., Sonnets 113–114 form a pair on the eye’s deceptions).
+
+### Conclusion:
+This is **Shakespeare’s Sonnet 114** with **editorial adjustments** (modernized spelling/punctuation) but no substantive deviations.
+
+**Shakespeare: True**

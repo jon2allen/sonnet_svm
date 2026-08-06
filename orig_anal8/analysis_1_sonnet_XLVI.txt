@@ -1,0 +1,5 @@
+**Commentary:**
+The sonnet you provided does not match any of Shakespeare's 154 sonnets in structure, theme, or phrasing. While it follows the Shakespearean sonnet form (14 lines, iambic pentameter, ABABCDCDEFEFGG rhyme scheme), the language and imagery are not consistent with Shakespeare's known works. Key phrases like "rends my soul in twain," "thy heart’s trace," or "thy fair and fleeting guise" do not appear in Shakespeare's sonnets, nor do the thematic resolutions align with his typical treatments of eye vs. heart conflicts (e.g., Sonnet 46 in Shakespeare deals with a legal metaphor, not this exact struggle).
+
+**Label:**
+Shakespeare: False

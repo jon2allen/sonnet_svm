@@ -1,0 +1,30 @@
+The sonnet you provided is an exact match for **Shakespeare's Sonnet 137** (not CXXXVII, as the numbering in the Quarto is slightly different). Here is the text from the **1609 Quarto** for comparison:
+
+---
+**Sonnet 137**
+Thou blind fool Love, what dost thou to mine eyes,
+That they behold and see not what they see?
+They know what beauty is, see where it lies,
+Yet what the best is, take the worst to be.
+If eyes corrupt by over-partial looks,
+Be anchored in the bay where all men ride,
+Why of eyes' falsehood hast thou forged hooks,
+Whereto the judgment of my heart is tied?
+Why should my heart think that a several plot,
+Which my heart knows the wide world's common place?
+Or mine eyes seeing this, say this is not,
+To put fair truth upon so foul a face?
+In things right true my heart and eyes have erred,
+And to this false plague are they now transferred.
+
+---
+
+### Key Observations:
+1. **Exact Match**: The text aligns perfectly with the Quarto version, allowing for minor editorial differences (e.g., "transferr’d" vs. "transferred" is a modernized spelling).
+2. **No Strong Deviations**: No words or phrases are altered in meaning or structure.
+3. **Numbering**: The Quarto numbers this as **Sonnet 137**, not CXXXVII (Roman numerals were sometimes used in later editions).
+
+### Commentary:
+This is unquestionably Shakespeare’s work. The themes (blindness of love, deception of the eyes, and moral corruption) are classic Shakespearean motifs, and the phrasing is identical to the authoritative Quarto text.
+
+**Shakespeare: True**

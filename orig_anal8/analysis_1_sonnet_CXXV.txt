@@ -1,0 +1,8 @@
+**Commentary:**
+This sonnet does not match any of Shakespeare's 154 sonnets in the Gutenberg edition or the Quarto 1609 text. While the themes of transience, vanity, and true love are common in Shakespeare's sonnets, the phrasing, structure, and specific imagery here do not align with any of his works. Key deviations include:
+- The opening line ("What boots it me to bear the gilded weight") does not appear in Shakespeare’s sonnets.
+- The extended metaphor of "folly’s school" and "moth in flame" is not present in his sonnets.
+- The closing couplet’s phrasing ("false accuser, hence!") is uncharacteristic of Shakespeare’s style.
+- The sonnet number "CXXV" (125) in Shakespeare’s sequence deals with entirely different themes (e.g., "Were't aught to me I bore the canopy...").
+
+**Shakespeare: False**

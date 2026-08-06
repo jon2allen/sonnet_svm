@@ -1,0 +1,8 @@
+Shakespeare: False
+
+Commentary:
+The sonnet you provided does not match any of Shakespeare's 154 sonnets exactly, even when allowing for minor editorial differences in punctuation or function words. The closest in theme and structure is **Sonnet 100** ("Where art thou, Muse, that thou forget'st so long..."), but the wording and development diverge significantly. For example:
+- Line 3 ("Spend’st thou thy fury on some worthless song") differs from Sonnet 100’s "To give away yourself in vassalage / To one that is not worthy of thy place?"
+- The closing couplet does not align with any Shakespearean sonnet’s phrasing or imagery.
+
+No version in the Gutenberg edition or Quarto 1609 matches this text. The deviations are substantive, not editorial.

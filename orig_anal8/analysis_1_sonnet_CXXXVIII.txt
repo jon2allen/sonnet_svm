@@ -1,0 +1,28 @@
+The sonnet you provided is an exact match for **Shakespeare's Sonnet 138** (not CXXXVIII, as the numbering in the Quarto is slightly different). Here is the text from the **1609 Quarto** (the authoritative original edition) for comparison:
+
+---
+**Sonnet 138**
+When my loue sweares that she is made of truth,
+I do beleeue her though I know she lies,
+That she might thinke me some vntuterd youth,
+Vnlearned in the worlds false subtilties.
+Thus vainly thinking that she thinkes me young,
+Although she knowes my dayes are past the best,
+Simply I credit her false speaking tongue,
+On both sides thus is simple truth supprest.
+But wherefore sayes she not she is vniust?
+And wherefore say not I that I am old?
+O loues best habit is in seeming trust,
+And age in loue, loues not t’haue yeares told:
+ Therefore I lye with her, and she with me,
+ And in our faults by lyes we flattered be.
+---
+
+### Key Observations:
+1. **Exact Match in Content**: The meaning, structure, and word choices align perfectly with the Quarto version, with only minor spelling and punctuation differences (e.g., "swears" vs. "sweares," "unjust" vs. "vniust," "flatter’d" vs. "flattered").
+2. **No Substantive Deviations**: No lines or phrases are altered in a way that changes meaning or intent.
+3. **Editorial Adjustments**: Modernized spelling/punctuation (e.g., "untutor’d" → "vntuterd," "subtleties" → "subtilties") are standard for contemporary editions and do not affect authenticity.
+
+### Conclusion:
+**Shakespeare: True**
+This is Shakespeare’s Sonnet 138, with allowable editorial variations. The core text is identical to the 1609 Quarto.

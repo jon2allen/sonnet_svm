@@ -1,0 +1,13 @@
+The sonnet you provided is an exact match for **Shakespeare's Sonnet 146** (sometimes numbered as CXLVI in collections). Here’s the comparison with the **Quarto 1609 edition** (the authoritative early text):
+
+### Key Observations:
+1. **Title/Numbering**: The Quarto does not title the sonnets, but modern editions often label this as **Sonnet 146** (or CXLVI in Roman numerals).
+2. **Textual Match**:
+   - The first line in the Quarto reads: *"Poor ſoule the center of my ſinfull earth,"* (where "ſ" is the long "s" of early modern typography).
+   - The rest of the sonnet aligns perfectly with your version, allowing for minor editorial modernizations (e.g., "sinful" vs. "ſinfull," "centre" vs. "center," punctuation adjustments).
+3. **No Deviations**: The phrasing, imagery, and structure are identical to Shakespeare’s original, with no substitutions or rewordings.
+
+### Commentary:
+This is a well-known sonnet from Shakespeare’s sequence, often interpreted as a meditation on the soul’s neglect of spiritual nourishment in favor of worldly vanity. The Quarto text and your version are functionally identical, with only superficial differences in spelling/punctuation.
+
+**Shakespeare: True**

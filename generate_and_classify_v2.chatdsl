@@ -1,0 +1,51 @@
+# ChatDSL Script: Generate Fake Sonnet and Run SVM Inference Classification
+# Creates a fake sonnet in a composite Elizabethan style, saves it to 'fresh_dir',
+# and runs classify_sonnet.py (MLX SVM) to predict if it is Real or Fake.
+
+/run_unsafe
+
+# Set fallback directory if not set by script runner
+set fresh_dir = "/Users/jon2allen/projects/sonnets_svm/fresh_sonnets_testv2"
+
+/model mistral_1
+/temp 0.9
+/multiline
+
+Write a 14-line Shakespearean sonnet (ABAB CDCD EFEF GG in iambic pentameter).
+
+STRICT STYLISTIC CONSTRAINTS:
+
+Zero High-Frequency Clichés: Do NOT use the words rose, bloom, crimson, golden locks, silver threads, fleeting, sweet, fair, brow, or tread.
+
+Obscure Metaphors: Use concrete, grounding early-modern imagery—legal terms (enfeoff, lease, audit), maritime navigation, heraldry, alchemy, or husbandry/agriculture.
+
+Syntax & Enjambment: Avoid placing a complete thought on every line. Use heavy enjambment (run-on lines across stanzas), irregular caesuras (mid-line pauses), and inverted early-modern grammar rather than smooth modern sentence structures.
+
+
+Lexical Variety: Maximize unique word count. Do not repeat content words across lines. Use early modern contractions naturally (o'er, ne'er, ta'en, th' earth).
+
+
+;;
+
+# 3. Save the generated fake sonnet to the fresh_dir directory
+/save ${fresh_dir}/fake_sonnet_${seq}.txt
+
+/echo Created fake sonnet at ${fresh_dir}/fake_sonnet_${seq}.txt:
+/echo --------------------------------------------------
+/file ${fresh_dir}/fake_sonnet_${seq}.txt
+/showfile
+/echo --------------------------------------------------
+
+# 4. Run the MLX SVM classifier on the newly created fake sonnet and save analysis report
+/echo Running MLX SVM Inference Classifier...
+/run bash -c "/Users/jon2allen/projects/sonnets_svm/.venv/bin/python /Users/jon2allen/projects/sonnets_svm/classify_sonnet.py ${fresh_dir}/fake_sonnet_${seq}.txt --model_dir /Users/jon2allen/projects/sonnets_svm/sonnet_data_mlx "
+
+/savevar RUN_COMPLETION ${fresh_dir}/fake_sonnet_${seq}_analysis.txt
+
+# 5. Display the classifier output
+/echo Classification Results:
+/echo --------------------------------------------------
+/echo ${RUN_COMPLETION}
+/echo --------------------------------------------------
+
+

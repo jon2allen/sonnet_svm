@@ -1,0 +1,39 @@
+# sonnet generator
+
+# X=sonnet file
+
+/setvar sfile ${x}
+
+set fakedir = "mix_sonnet"
+set sonnet_dir = "data"
+set anal_dir = "anal8"
+
+/temp 0.1
+/model mistral_1 
+
+/filebank1 ${fakedir}/${sfile} 
+/filebank1 show all
+/multiline
+
+The sonnet below needs to be an exact match for one of Shakespeare sonnets.  Examine entire text.
+
+Use the Gutenberg Shakespeare sonnets as valid as well as the original Quarto 1608 edition. 
+ editorial differences (punctuation, function words, verb forms) are allowed, 
+but no strong deviations. 
+
+there should be no variations or different uses with same meaning.  Either it is acutal Skakespeare or not
+##  Final Decision
+Output one label at end with commentary before:
+Shakespeare: True
+Shakespeare: False
+
+
+sonnet: \n {filebank1}
+
+;;
+/multiline
+/save "${anal_dir}/analysis_1_${sfile} "
+#/mem
+#/dump
+wait 6  
+/exit

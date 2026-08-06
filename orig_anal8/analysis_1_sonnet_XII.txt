@@ -1,0 +1,38 @@
+The sonnet you provided is a close imitation of **Shakespeare’s Sonnet 12** (*"When I do count the clock that tells the time"*), but it is not an exact match in wording, structure, or imagery. Below is a comparison with the original (Quarto 1609 edition):
+
+### **Original Sonnet 12 (Quarto 1609):**
+> When I do count the clock that tells the time,
+> And see the brave day sunk in hideous night;
+> When I behold the violet past prime,
+> And sable curls all silver’d o’er with white;
+> When lofty trees I see barren of leaves,
+> Which erst from heat did canopy the herd,
+> And summer’s green all girded up in sheaves,
+> Borne on the bier with white and bristly beard,
+> Then of thy beauty do I question make,
+> That thou among the wastes of time must go,
+> Since sweets and beauties do themselves forsake
+> And die as fast as they see others grow;
+>   And nothing ’gainst Time’s scythe can make defence
+>   Save breed, to brave him when he takes thee hence.
+
+### **Key Differences in Your Version:**
+1. **"When I behold the glass where moments flee"** (vs. *"When I do count the clock that tells the time"*)
+   - "Glass" (hourglass) is not in the original; Shakespeare uses "clock."
+2. **"Golden noon is drowned in shade"** (vs. *"brave day sunk in hideous night"*)
+   - "Golden noon" is a poetic variation, not Shakespeare’s phrasing.
+3. **"Once-lush blooms now wither, pale to see"** (vs. *"the violet past prime"*)
+   - "Once-lush blooms" is a paraphrase; Shakespeare specifies "violet."
+4. **"Youth’s bright fire in ashen locks betrayed"** (vs. *"sable curls all silver’d o’er with white"*)
+   - "Ashen locks" is a rewording; Shakespeare’s imagery is more vivid ("sable curls").
+5. **"Naked boughs, that once did shade the mead"** (vs. *"lofty trees I see barren of leaves"*)
+   - "Naked boughs" is not in the original; Shakespeare uses "lofty trees."
+6. **"Fields once green lie bound in sheaves to feed / The hungry maw of time"** (vs. *"summer’s green all girded up in sheaves"*)
+   - "Hungry maw of time" is an addition; Shakespeare’s phrasing is simpler.
+7. **"Yet in thy grace some seed may yet take root"** (vs. *"Save breed, to brave him when he takes thee hence"*)
+   - The closing couplet is entirely rephrased; Shakespeare’s original is about procreation ("breed"), while yours introduces "seed" and "bloom anew."
+
+### **Conclusion:**
+While the *theme* and *structure* closely follow Sonnet 12, the *wording* and *imagery* deviate significantly. No editorial differences (punctuation, minor verb forms) could reconcile these variations with Shakespeare’s original.
+
+**Shakespeare: False**

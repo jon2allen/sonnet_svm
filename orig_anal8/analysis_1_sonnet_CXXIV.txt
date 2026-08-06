@@ -1,0 +1,24 @@
+The sonnet you provided is an exact match for **Shakespeare's Sonnet 124** (CXXIV in Roman numerals), with only minor editorial differences in punctuation and capitalization (e.g., "builded" vs. "builded" or "built," "thralled" vs. "thrallèd," etc.).
+
+Here is the text from the **1609 Quarto** for comparison:
+---
+**Sonnet 124**
+If my dear love were but the child of state,
+It might for fortune’s bastard be unfathered,
+As subject to Time’s love or to Time’s hate,
+Weeds among weeds, or flowers with flowers gathered.
+No, it was builded far from accident;
+It suffers not in smiling pomp, nor falls
+Under the blow of thrallèd discontent,
+Whereto th’ inviting time our fashion calls:
+It fears not policy, that heretic,
+Which works on leases of short-numbered hours,
+But all alone stands hugely politic,
+That it nor grows with heat nor drowns with showers.
+ To this I witness call the fools of time,
+ Which die for goodness, who have lived for crime.
+---
+
+The variations are negligible (e.g., "unfather’d" vs. "unfathered," "thralled" vs. "thrallèd"), and the meaning and structure are identical.
+
+**Shakespeare: True**

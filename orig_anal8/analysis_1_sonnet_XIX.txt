@@ -1,0 +1,8 @@
+**Commentary:**
+This sonnet does not match any of Shakespeare's 154 sonnets in the Gutenberg edition or the Quarto 1609 edition. While the themes of time, beauty, and poetic immortality are common in Shakespeare's sonnets, the specific phrasing, imagery, and structure of this poem do not align exactly with any of his works. For example:
+
+- The opening line, *"O cruel Time, that gnaws the mountain’s height,"* does not appear in Shakespeare’s sonnets. The closest thematic parallels (e.g., Sonnet 19: *"Devouring Time, blunt thou the lion’s paws"*) differ significantly in wording and imagery.
+- The plea to spare the lover’s beauty (*"Let not thy scythe the golden tresses shear"*) is not present in Shakespeare’s sonnets in this form.
+- The closing couplet’s phrasing (*"Yet mark me well, though thou dost all undo, / My verse shall keep her ever bright and new"*) does not match Shakespeare’s exact wording in any sonnet (cf. Sonnet 18: *"So long as men can breathe or eyes can see, / So long lives this, and this gives life to thee"*).
+
+**Shakespeare: False**

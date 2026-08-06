@@ -1,0 +1,9 @@
+The sonnet you provided is an exact match for **Shakespeare's Sonnet 107** (CVII in Roman numerals), with only minor editorial variations in punctuation and spelling that align with either the **Quarto 1609 edition** or the **Gutenberg Shakespeare sonnets**.
+
+Key observations:
+1. The structure (14 lines, iambic pentameter, Shakespearean rhyme scheme) is consistent.
+2. The imagery and themes (e.g., "mortal moon," "olives of endless age," "tyrants’ crests") are characteristic of Shakespeare’s sonnets.
+3. The text adheres closely to the original, with no semantic deviations—only permissible editorial differences (e.g., "endur’d" vs. "endured," "presage" vs. "presage," etc.).
+
+**Label:**
+Shakespeare: True

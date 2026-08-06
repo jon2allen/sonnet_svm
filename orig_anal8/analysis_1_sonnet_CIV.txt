@@ -1,0 +1,29 @@
+The sonnet you provided is an exact match for **Shakespeare's Sonnet 104** (not CIV, as the numbering in your header is incorrect—Shakespeare's sonnets are numbered 1–154). Here is the text from the **1609 Quarto** (the authoritative first edition) for comparison:
+
+---
+**Sonnet 104**
+To me fair friend you never can be old,
+For as you were when first your eye I ey’d,
+Such seems your beauty still: Three winters cold,
+Have from the forests shook three summers pride,
+Three beauteous springs to yellow autumn turn’d,
+In process of the seasons have I seen,
+Three April perfumes in three hot Junes burn’d,
+Since first I saw you fresh which yet are green.
+Ah yet doth beauty like a dial-hand,
+Steal from his figure, and no pace perceiv’d,
+So your sweet hue, which methinks still doth stand,
+Hath motion, and mine eye may be deceiv’d:
+ For fear of which, hear this thou age unbred,
+ Ere you were born was beauties summer dead.
+---
+
+### Key Observations:
+1. **Exact Match**: The text aligns perfectly with the 1609 Quarto, allowing for minor editorial differences (e.g., "CIV" vs. "104," modernized punctuation like colons/semicolons, and capitalization).
+2. **No Deviations**: No words or phrases are altered, substituted, or reordered. The meaning and structure are identical.
+3. **Gutenberg Validation**: The text also matches the version in the **Project Gutenberg** edition of Shakespeare's sonnets.
+
+### Commentary:
+This is unquestionably Shakespeare's **Sonnet 104**. The only discrepancy is the header ("Sonnet CIV"), which is incorrect—Shakespeare's sonnets are numbered in Arabic numerals (1–154), not Roman numerals. The body of the sonnet, however, is authentic.
+
+**Shakespeare: True**

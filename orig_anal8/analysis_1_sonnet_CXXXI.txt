@@ -1,0 +1,31 @@
+Let's examine the provided sonnet against Shakespeare's known sonnets from the Gutenberg edition and the Quarto 1609 edition.
+
+The sonnet you provided is a close match to **Sonnet 131** in Shakespeare's sequence, but with some differences. Here is the original Sonnet 131 from the Quarto (1609):
+
+---
+**Sonnet CXXXI**
+Thou art as tyrannous, so as thou art,
+As those whose beauties proudly make them cruel;
+For well thou know'st to my dear doting heart
+Thou art the fairest and most precious jewel.
+Yet in good faith some say that thee behold,
+Thy face hath not the power to make love groan;
+To say they err, I dare not be so bold,
+Although I swear it to myself alone.
+And, to be sure that is not false I swear,
+A thousand groans but thinking on thy face,
+One on another's neck, do witness bear
+Thy black is fairest in my judgment's place.
+ In nothing art thou black save in thy deeds,
+ And thence this slander, as I think, proceeds.
+---
+
+### Comparison:
+1. The structure, rhyme scheme, and thematic content are identical.
+2. The wording is nearly identical, with only minor editorial differences (e.g., "judgement’s" vs. "judgment's" — the apostrophe placement is a common editorial variation).
+3. The meaning and phrasing are consistent with Shakespeare’s original.
+
+### Conclusion:
+The sonnet you provided is a valid version of **Shakespeare’s Sonnet 131**, with only minor editorial variations that do not affect the core text.
+
+**Shakespeare: True**

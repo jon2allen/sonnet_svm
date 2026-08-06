@@ -1,0 +1,29 @@
+The sonnet you provided is an exact match for **Shakespeare's Sonnet 130** (sometimes numbered as CXXX in certain editions). Here is the comparison with the **Quarto 1609 edition** (the earliest published version of Shakespeare's sonnets):
+
+### **Quarto 1609 Text (Sonnet 130):**
+```
+My Mistris eyes are nothing like the Sunne,
+Currall is farre more red, then her lips red,
+If snow be white, why then her breasts are dun:
+If haires be wiers, black wiers grow on her head:
+I haue seene Roses damaskt, red and white,
+But no such Roses see I in her cheekes,
+And in some perfumes is there more delight,
+Then in the breath that from my Mistris reekes.
+I loue to heare her speake, yet well I know,
+That Musicke hath a farre more pleasing sound:
+I graunt I neuer saw a goddesse goe,
+My Mistris when she walkes treads on the ground.
+  And yet by heauen I thinke my loue as rare,
+  As any she beli'd with false compare.
+```
+
+### **Key Observations:**
+1. **Exact Match in Content** – The meaning, imagery, and structure are identical.
+2. **Minor Editorial Differences** – The punctuation (e.g., semicolons vs. commas) and spelling (e.g., "Mistris" vs. "mistress," "reekes" vs. "reeks") align with common variations between modern editions and the original Quarto.
+3. **No Strong Deviations** – No words or phrases are altered in a way that changes meaning.
+
+### **Conclusion:**
+This is **Shakespeare's Sonnet 130** with only minor editorial adjustments.
+
+**Shakespeare: True**

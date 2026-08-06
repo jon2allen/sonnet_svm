@@ -1,0 +1,50 @@
+# sonnet generator
+
+# X=sonnet file
+
+/setvar sfile ${x}
+
+set fakedir = "fake_sonnet"
+set sonnet_dir = "data"
+
+# authors for style 
+set authors = " The Elizabethan era (1558–1603) was a golden age for sonnet writing in England, and many poets contributed to the flourishing of the form. 
+Below is a list of notable sonnet writers contemporary with **William Shakespeare** (1564–1616), many of whom were part of the **Sonnet Craze** of the 1590s:
+1. **Sir Philip Sidney** (1554–1586) – *Astrophel and Stella* (1591, posthumous)
+2. **Edmund Spenser** (1552–1599) – *Amoretti* (1595)
+3. **Samuel Daniel** (1562–1619) – *Delia* (1592)
+4. **Michael Drayton** (1563–1631) – *Idea* (1594, revised 1619)
+5. **Fulke Greville, Lord Brooke** (1554–1628) – *Caelica* (written c. 1580s–1600s, published 1633)
+6. **Henry Constable** (1562–1613) – *Diana* (1592, expanded 1594)
+7. **Barnabe Barnes** (1571–1609) – *Parthenophil and Parthenophe* (1593)
+8. **Thomas Lodge** (1558–1625) – *Phillis* (1593)
+9. **William Smith** (fl. 1596) – *Chloris* (1596)
+10. **Richard Barnfield** (1574–1620) – *Cynthia* (1595)
+11. **Thomas Watson** (1555–1592) – *The Hekatompathia or Passionate Century of Love* (1582, a sequence of 18-line sonnets)
+12. **Giles Fletcher the Elder** (1548–1611) – *Licia* (1593)
+13. **Robert Tofte** (1562–1620) – *Laura* (1597)
+14. **William Percy** (1574–1648) – *Coelia* (1594)
+15. **John Davies of Hereford** (1565–1618) – *Gulling Sonnets* (1594, satirical)
+16. **Richard Lynche** (fl. 1596–1601) – *Diella* (1596)
+17. **John Soowthern** (fl. 1584–1600) – *Pandora* (1584)
+18. **Thomas Campion** (1567–1620) – *A Booke of Ayres* (1601, includes sonnets)
+19. **George Chapman** (1559–1634) – *Ovids Banquet of Sense* (1595, includes sonnets)
+20. **Christopher Marlowe** (1564–1593) – Though best known for drama, he wrote a few sonnets (e.g., in *Hero and Leander*).
+Shakespeare’s own sonnets (published 1609, but likely written earlier) were part of this broader movement. Many of these poets were part of the **Areopagus** (a group promoting English verse) or were influenced by Sidney’s *Astrophel and Stella*.
+"
+
+/filebank1 ${sonnet_dir}/${sfile} 
+/filebank1 show all
+/multiline
+create a  single sonnet in a composite style of these authors about the same
+ topic as this sonnet: \n {filebank1}.  do not indicate voices that inspired. 
+ and keep it to the same size as Shakespeares sonnets and format. 
+and use the same sonnet number as to mimic Shakespeare. no commentary just the sonnet  \n ${authors}
+
+;;
+/multiline
+/save ${fakedir}/${sfile}
+#/mem
+#/dump
+wait 4
+/exit

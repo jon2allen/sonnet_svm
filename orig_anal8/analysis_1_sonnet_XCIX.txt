@@ -1,0 +1,9 @@
+**Commentary:**
+This sonnet is **not** an exact match for any of Shakespeare's 154 sonnets. While the themes of nature, theft, and beauty are common in Shakespeare's work, the specific phrasing and structure of *Sonnet XCIX* do not align precisely with any of his authenticated sonnets.
+
+Key discrepancies include:
+1. **Numbering**: Shakespeare's sonnets are traditionally numbered 1–154, and *Sonnet 99* (not "XCIX") exists in his sequence, but its content is entirely different.
+2. **Content**: Shakespeare’s *Sonnet 99* begins with *"The forward violet thus did I chide"* (matching the first line here), but the rest diverges significantly. For example, Shakespeare’s version does not mention "marjoram" or the "vengeful canker" in the same way.
+3. **Structure**: The closing couplet in the provided sonnet does not match Shakespeare’s *Sonnet 99* or any other.
+
+**Shakespeare: False**

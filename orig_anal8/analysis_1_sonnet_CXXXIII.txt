@@ -1,0 +1,14 @@
+The sonnet you provided is an exact match for **Shakespeare's Sonnet 133** (noted as "Sonnet CXXXIII" in some editions, where Roman numerals are used). Here is the comparison with the **Quarto 1609 edition** (the authoritative early text):
+
+### Key Observations:
+1. **Title/Numbering**: The Quarto labels it as "133" (Arabic), but later editions (e.g., some modern ones) use Roman numerals ("CXXXIII"). This is an editorial difference, not a textual one.
+2. **Textual Match**:
+   - The wording aligns perfectly with the Quarto, including archaic forms like "Beshrew," "engross’d," and "pent."
+   - Punctuation varies slightly (e.g., Quarto uses colons where your version has semicolons), but this is a common editorial adjustment.
+   - No substantive deviations (e.g., no synonyms or altered meanings).
+3. **Structure**: The rhyme scheme (ABABCDCDEFEFGG) and volta (turn) at line 9 are consistent with Shakespeare’s sonnets.
+
+### Commentary:
+This is **Shakespeare’s Sonnet 133**, with only minor punctuation differences that fall within acceptable editorial variation. The core language, imagery, and structure are identical to the Quarto.
+
+**Shakespeare: True**

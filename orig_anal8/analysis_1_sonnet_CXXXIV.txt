@@ -1,0 +1,8 @@
+This sonnet is an exact match for **Shakespeare's Sonnet 134** (sometimes numbered as CXXXIV in certain editions), with only minor editorial variations in punctuation and spelling that align with either the Quarto 1609 edition or the Gutenberg text.
+
+Key observations:
+1. The thematic and lexical content is identical to Sonnet 134.
+2. The legal/mortgage metaphor ("mortgag’d," "forfeit," "statute," "usurer," "debtor") is preserved verbatim.
+3. The concluding couplet matches the original: *"Him have I lost; thou hast both him and me: / He pays the whole, and yet am I not free."*
+
+**Shakespeare: True**

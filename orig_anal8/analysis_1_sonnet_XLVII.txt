@@ -1,0 +1,15 @@
+The sonnet you provided is an exact match for **Shakespeare's Sonnet 47** (XLVIII in some editions, but typically numbered 47 in modern collections). Here is the comparison with the **Quarto 1609 edition** (the authoritative source for Shakespeare's sonnets):
+
+### Key Observations:
+1. **Title/Numbering**: The Quarto does not title the sonnets but numbers them sequentially. This aligns with Sonnet 47 in modern editions.
+2. **Textual Match**:
+   - The first line, *"Betwixt mine eye and heart a league is took,"* matches the Quarto's *"Betwixt mine eye and heart a league is tooke,"* (with minor spelling variation "tooke" vs. "took").
+   - The rest of the sonnet follows the Quarto's wording exactly, with only minor editorial differences (e.g., "famish’d" vs. "faminisht," "smother" vs. "smother’d").
+   - The closing couplet is identical in meaning and structure, with only punctuation differences (e.g., Quarto: *"Awakes my heart, to hearts and eyes delight"* vs. your version: *"Awakes my heart, to heart’s and eye’s delight"*).
+
+3. **No Strong Deviations**: The phrasing, imagery, and logic are entirely consistent with Shakespeare’s style and the Quarto text. No substitutions or rewordings with equivalent meaning are present.
+
+### Conclusion:
+This is **Shakespeare’s Sonnet 47** with only minor editorial adjustments (punctuation, spelling modernization).
+
+**Shakespeare: True**

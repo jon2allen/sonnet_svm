@@ -1,0 +1,21 @@
+The sonnet you provided is an exact match for **Shakespeare's Sonnet 21** (not XXI, as the numbering in the original Quarto is sequential without Roman numerals). Here is the comparison with the **1609 Quarto edition** (the authoritative early text):
+
+### Key Observations:
+1. **Title/Numbering**: The Quarto does not use Roman numerals or titles like "Sonnet XXI"—it is simply the 21st sonnet in sequence.
+2. **Textual Match**:
+   - The opening line: *"So is it not with me as with that Muse"* matches exactly.
+   - *"Stirr’d by a painted beauty to his verse"* (Quarto: "Stird by a painted beauty to his verse"—minor spelling variation "Stird" vs. "Stirr’d").
+   - *"Who heaven itself for ornament doth use"* (identical).
+   - *"And every fair with his fair doth rehearse"* (identical).
+   - *"Making a couplement of proud compare"* (Quarto: "Making a coopelment of proud compare"—"couplement" is an editorial modernization of "coopelment").
+   - The rest of the sonnet aligns perfectly, including the closing couplet:
+     *"Let them say more that like of hearsay well; / I will not praise that purpose not to sell."*
+
+### Editorial Allowances:
+- Punctuation (e.g., "O!" vs. "O" in the Quarto) and spelling variants (e.g., "Stird" vs. "Stirr’d") are common in modern editions.
+- The word "coopelment" (Quarto) is often modernized to "couplement," but the meaning is identical.
+
+### Conclusion:
+This is **Shakespeare’s Sonnet 21** with no substantive deviations. The variations are purely editorial and do not affect meaning or authenticity.
+
+**Shakespeare: True**
