@@ -2,7 +2,7 @@
 
 This repository contains an end-to-end Machine Learning, NLP, and LLM experiment designed to evaluate style classification and detection between authentic Shakespearean sonnets and high-fidelity simulated Elizabethan mimicries. 
 
-By leveraging TF-IDF feature extraction (800 unigram/bigram features) and a Soft-Margin Linear Support Vector Machine (SVM) trained with **Apple Silicon GPU acceleration via MLX**, the system achieves state-of-the-art attribution accuracy.
+By leveraging TF-IDF feature extraction (800 unigram/bigram features) and a Soft-Margin Linear Support Vector Machine (SVM) trained with Apple Silicon GPU acceleration via MLX, the system achieves state-of-the-art attribution accuracy.
 
 ---
 
