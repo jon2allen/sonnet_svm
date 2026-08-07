@@ -1,0 +1,53 @@
+# ChatDSL Script: Batch Generate Authentic Shakespeare Sonnets 1..154 from Memory and Run MLX SVM Inference
+# Uses mistral_1 model at low temperature (/temp 0.1) and ChatDSL foreach loop with range(1:154).
+# Saves each authentic sonnet and its corresponding SVM analysis report to fresh_real_sonnets_test.
+
+/run_unsafe
+/model mistral_1
+/temp 0.1
+
+# 1. Setup target directory
+set fresh_dir = "/Users/jon2allen/projects/sonnets_svm/fresh_real_sonnets_test"
+/run mkdir -p ${fresh_dir}
+
+# 2. Main Loop: Generate from memory and classify authentic Shakespeare sonnets 1 through 154
+foreach seq in range(1:154)
+    /echo --------------------------------------------------
+    /echo [$seq/154] Generating Authentic Shakespeare Sonnet #${seq} from Memory...
+    /echo --------------------------------------------------
+
+    /multiline
+Output the authentic text of William Shakespeare's Sonnet ${seq} verbatim.
+Do not include any title, introductory or concluding remarks, annotations, or commentary. 
+Provide only the 14-line sonnet text.
+;;
+    /multiline
+
+    # Save generated authentic sonnet
+    /save ${fresh_dir}/real_sonnet_${seq}.txt
+
+    /echo Created authentic sonnet at ${fresh_dir}/real_sonnet_${seq}.txt:
+    /echo --------------------------------------------------
+    /file ${fresh_dir}/real_sonnet_${seq}.txt
+    /showfile
+    /echo --------------------------------------------------
+
+    # Run MLX SVM classifier using /run
+    /echo Running MLX SVM Inference Classifier on Sonnet #${seq}...
+    /run /Users/jon2allen/projects/sonnets_svm/.venv/bin/python /Users/jon2allen/projects/sonnets_svm/classify_sonnet.py ${fresh_dir}/real_sonnet_${seq}.txt --model_dir /Users/jon2allen/projects/sonnets_svm/sonnet_data_mlx
+
+    # Save SVM classification analysis output report
+    /savevar RUN_COMPLETION ${fresh_dir}/real_sonnet_${seq}_analysis.txt
+
+    /echo Classification Results for Sonnet #${seq}:
+    /echo --------------------------------------------------
+    /echo ${RUN_COMPLETION}
+    /echo --------------------------------------------------
+
+endfor
+
+/echo ==================================================
+/echo Authentic Sonnets Batch Generation & SVM Classification Complete!
+/echo ==================================================
+
+/exit

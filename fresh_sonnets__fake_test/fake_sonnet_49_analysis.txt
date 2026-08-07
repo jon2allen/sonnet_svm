@@ -1,0 +1,7 @@
+==================================================
+SVM CLASSIFICATION REPORT FOR: fake_sonnet_49.txt
+==================================================
+Raw SVM Score:      0.6794
+Decision Boundary:  0.8800
+Classification:     Fake (Elizabethan-Mimicry)
+==================================================

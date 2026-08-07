@@ -67,16 +67,21 @@ def main():
         print(f"Error: Directory '{target_dir}' does not exist.")
         sys.exit(1)
 
-    # Find all fake sonnet files (excluding analysis files and seq.txt)
+    # Find all sonnet files (real or fake, excluding analysis files and seq.txt)
     all_files = sorted(os.listdir(target_dir), key=natural_sort_key)
-    sonnet_files = [f for f in all_files if f.startswith("fake_sonnet_") and f.endswith(".txt") and not f.endswith("_analysis.txt")]
+    sonnet_files = [f for f in all_files if (f.startswith("fake_sonnet_") or f.startswith("real_sonnet_")) and f.endswith(".txt") and not f.endswith("_analysis.txt")]
 
     if not sonnet_files:
-        print(f"No sonnet files matching 'fake_sonnet_*.txt' found in '{target_dir}'.")
+        print(f"No sonnet files matching 'fake_sonnet_*.txt' or 'real_sonnet_*.txt' found in '{target_dir}'.")
         sys.exit(1)
+
+    # Determine ground truth expectation based on file prefixes
+    is_real_dataset = any(f.startswith("real_sonnet_") for f in sonnet_files)
+    expected_class = "Real" if is_real_dataset else "Fake"
 
     print("=" * 65)
     print(f"EVALUATING SVM CLASSIFICATION ON DATASET: {target_dir}")
+    print(f"Dataset Type: Expected Ground Truth = {expected_class}")
     print("=" * 65)
     print(f"Total Sonnet Files Found: {len(sonnet_files)}")
 
@@ -93,11 +98,12 @@ def main():
     results = []
 
     for filename in sonnet_files:
-        seq_match = re.search(r"fake_sonnet_(\d+)\.txt", filename)
+        seq_match = re.search(r"(?:fake|real)_sonnet_(\d+)\.txt", filename)
         seq_num = int(seq_match.group(1)) if seq_match else 0
+        prefix = "real_sonnet_" if filename.startswith("real_sonnet_") else "fake_sonnet_"
         
         filepath = os.path.join(target_dir, filename)
-        analysis_filename = f"fake_sonnet_{seq_num}_analysis.txt"
+        analysis_filename = f"{prefix}{seq_num}_analysis.txt"
         analysis_filepath = os.path.join(target_dir, analysis_filename)
 
         score_val = None
@@ -138,14 +144,16 @@ def main():
                     print(f"Error classifying {filename}: {e}")
 
         if prediction is not None:
-            is_fake = "Fake" in prediction
+            pred_is_real = "Real" in prediction
+            correct = (pred_is_real == (expected_class == "Real"))
             results.append({
                 "filename": filename,
                 "seq": seq_num,
                 "score": score_val,
                 "threshold": thresh_val,
                 "prediction": prediction,
-                "is_fake": is_fake,
+                "pred_is_real": pred_is_real,
+                "correct": correct,
                 "source": source
             })
 
@@ -155,9 +163,9 @@ def main():
 
     # Compute aggregate statistics
     total_evaluated = len(results)
-    fake_detected = sum(1 for r in results if r["is_fake"])
-    real_mismatches = sum(1 for r in results if not r["is_fake"])
-    accuracy = (fake_detected / total_evaluated) * 100.0
+    correct_count = sum(1 for r in results if r["correct"])
+    mismatch_count = total_evaluated - correct_count
+    accuracy = (correct_count / total_evaluated) * 100.0
 
     scores = [r["score"] for r in results if r["score"] is not None]
 
@@ -165,9 +173,9 @@ def main():
     print("                      SUMMARY RESULTS                       ")
     print("=" * 65)
     print(f"Total Sonnets Evaluated:           {total_evaluated}")
-    print(f"Correctly Detected as Fake:        {fake_detected} ({accuracy:.2f}%)")
-    print(f"Incorrectly Classified as Real:    {real_mismatches} ({(100 - accuracy):.2f}%)")
-    print(f"SVM Detection Success Rate:        {accuracy:.2f}%")
+    print(f"Correctly Classified ({expected_class}):   {correct_count} ({accuracy:.2f}%)")
+    print(f"Misclassified:                     {mismatch_count} ({(100 - accuracy):.2f}%)")
+    print(f"SVM Classification Accuracy:       {accuracy:.2f}%")
     print("-" * 65)
 
     if scores:
@@ -180,7 +188,6 @@ def main():
     print("=" * 65)
 
     # Calculate distance to decision boundary for each sonnet
-    # Distance = abs(score - boundary). The smaller the distance, the closer to flipping classification!
     for r in results:
         b = r["threshold"] if r["threshold"] is not None else 0.8800
         r["boundary_dist"] = abs(r["score"] - b) if r["score"] is not None else float('inf')
@@ -189,10 +196,10 @@ def main():
     closest_sorted = sorted(results, key=lambda x: x["boundary_dist"])
 
     # Print table of mismatches (sonnets that fooled the model)
-    mismatch_items = [r for r in results if not r["is_fake"]]
+    mismatch_items = [r for r in results if not r["correct"]]
     if mismatch_items:
         print("\n" + "!" * 65)
-        print("MISMATCHES: Sonnets Classified as Real (Shakespeare)")
+        print(f"MISMATCHES: Sonnets Not Classified as {expected_class}")
         print("!" * 65)
         print(f"{'Filename':<25} | {'Raw Score':<10} | {'Decision Boundary':<18} | {'Prediction':<20}")
         print("-" * 65)
@@ -200,7 +207,7 @@ def main():
             print(f"{m['filename']:<25} | {m['score']:<10.4f} | {m['threshold']:<18.4f} | {m['prediction']:<20}")
         print("!" * 65)
     else:
-        print("\nPerfect Score! All evaluated sonnets were correctly detected as Fake.")
+        print(f"\nPerfect Score! All evaluated sonnets were correctly classified as {expected_class}.")
 
     # Display Top 5 Sonnets Closest to Decision Boundary
     print("\n" + "=" * 65)
