@@ -1,0 +1,67 @@
+sonnets_svm/
+│
+├── Root Configuration & System Files
+│   ├── README.md                      # Primary reproduction guide & project documentation
+│   ├── FILE_STRUCTURE.txt             # ASCII directory tree reference file
+│   ├── .gitignore                     # Git exclusion rules (.venv, cache, etc.)
+│   ├── LICENSE                        # Project license file
+│   ├── requirements.txt               # Python package dependencies (mlx, scikit-learn, numpy)
+│   └── seq.txt                        # Sequence counter for generation tasks
+│
+├── Python Scripts (Training & Inference)
+│   ├── train_svm.py                   # Primary MLX Soft-Margin SVM trainer & model saver
+│   ├── classify_sonnet.py             # MLX SVM inference CLI for single sonnet files
+│   ├── classify_sonnet_numpy.py       # Non-MLX / NumPy inference script
+│   ├── svm_training_nomlx.py          # Pure NumPy / Scikit-Learn SVM trainer
+│   ├── evaluate_fresh_sonnets.py      # Batch evaluator & boundary distance calculator
+│   ├── tune_feature_cap.py            # Feature cap & threshold sweep experiment script
+│   ├── benchmark_in_process.py        # MLX vs. NumPy in-process inference benchmark
+│   ├── mix_compare_results.py         # Ground-truth accuracy parser for anal8 experiment
+│   ├── extract_sonnets.py             # Gutenberg source text sonnet extractor
+│   ├── extract_sonnets_1609.py        # 1609 Quarto edition HTML extractor
+│   ├── mix_sonnets_5.py               # Dataset randomization & mixture builder
+│   └── bundle_sonnets.py              # Packaging utility for sonnet collections
+│
+├── ChatDSL Scripts & Shell Automation
+│   ├── generate_batch_154_forloop.chatdsl # Batch ChatDSL pipeline (LLM prompt + SVM classify 154 fakes)
+│   ├── generate_real_154_forloop.chatdsl  # Batch ChatDSL pipeline (LLM prompt + SVM classify 154 reals)
+│   ├── generate_and_classify.chatdsl  # Native ChatDSL pipeline (LLM prompt + SVM classify)
+│   ├── generate_and_classify.chatdsl.bak # Backup copy of ChatDSL script
+│   ├── generate_real_shakespeare.chatdsl # Control test DSL script for real sonnets
+│   ├── sonnet1.chatdsl                # 20-Author composite Elizabethan prompt generator
+│   ├── anal8.chatdsl                  # Zero-shot LLM baseline classifier prompt
+│   ├── gen_and_classify_154.sh        # Batch execution shell script (154 iterations)
+│   ├── gen_all_sonnets.sh             # Bulk fake dataset generator shell script
+│   ├── classify_all_fakes.sh          # Batch classification runner for fake sonnets
+│   ├── benchmark_inference.sh         # Inference latency benchmark shell script
+│   ├── anal_mix_sonnets.sh            # Analysis runner for mixed sonnet datasets
+│   └── increment.sh / increment_seq.sh# Sequence incrementing helper shell scripts
+│
+├── Model Checkpoints & Serialized Artifacts
+│   ├── sonnet_data_mlx/               # Primary MLX Model Checkpoint Directory
+│   │   ├── svm_vectorizer.pkl         # Serialized TF-IDF Vectorizer (800 features)
+│   │   └── svm_model_weights.npz      # MLX Tensors: Weights (w), Bias (b), Threshold (0.88)
+│   ├── sonnet_data_numpy/             # Non-MLX Model Checkpoint Directory
+│   │   └── svm_numpy_model.pkl        # Bundled NumPy model dictionary
+│   └── svm_visualization.jpg          # 2D PCA Decision Boundary & Margin Visualization plot
+│
+├── Datasets & Text Corpora
+│   ├── orig_sonnets/                  # 154 Authentic Shakespeare Sonnets (Modern Gutenberg)
+│   ├── orig_sonnet_quarto/            # 154 Authentic Shakespeare Sonnets (1609 Quarto Spelling)
+│   ├── orig_fake_sonnets/             # 154 Generated Elizabethan Mimicry Sonnets (Training set)
+│   ├── fresh_sonnets__fake_test/      # 154 Generated Fake Sonnets & SVM analysis reports (Test set)
+│   ├── fresh_real_sonnets_test/       # 154 Authentic Shakespeare Sonnets & SVM reports (Test set)
+│   ├── fresh_sonnets_test/            # Legacy batch generated test output & analysis reports
+│   ├── sonnets.txt                    # Raw Gutenberg source text
+│   ├── sonnets_orig.txt               # Unmodified source text archive
+│   ├── sonnets_1609_quarto_roman.txt  # Cleaned 1609 Quarto text with Roman numerals
+│   ├── sonnets_1609_quarto_complete.txt # Complete Quarto text extraction
+│   ├── sonnets_complete.html          # Source HTML from Internet Shakespeare Editions
+│   ├── sonnet_authors.txt             # Reference list of 20 Elizabethan poets
+│   └── all_154_mix_real_fake.txt      # Bundled 80/20 mixed evaluation dataset
+│
+└── Documentation & Reports
+    ├── svm_exploration_sonnets.md     # Primary 500+ line technical exploration paper
+    ├── LLM_SONNET_README.md           # Architecture overview for Chatybot / ChatDSL pipeline
+    ├── README_SONNETS.md              # Documentation on 1609 Quarto extraction project
+    └── mix_accuracy_comparison.md     # Accuracy report for anal8 LLM classification
